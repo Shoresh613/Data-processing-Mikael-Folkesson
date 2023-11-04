@@ -11,6 +11,8 @@ seaborn = "*"
 ipykernel = "*"
 openpyxl = "*"
 lxml = "*"
+plotly = "*"
+nbformat = "*"
 
 [dev-packages]
 
