@@ -13,6 +13,7 @@ openpyxl = "*"
 lxml = "*"
 plotly = "*"
 nbformat = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
