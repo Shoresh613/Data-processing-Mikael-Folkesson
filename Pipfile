@@ -15,6 +15,7 @@ plotly = "*"
 nbformat = "*"
 python-dotenv = "*"
 jinja2 = "*"
+folium = "*"
 
 [dev-packages]
 
