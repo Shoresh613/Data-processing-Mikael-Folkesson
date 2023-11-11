@@ -16,6 +16,7 @@ nbformat = "*"
 python-dotenv = "*"
 jinja2 = "*"
 folium = "*"
+statsmodels = "*"
 
 [dev-packages]
 
