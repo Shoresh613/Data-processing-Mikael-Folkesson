@@ -5,7 +5,7 @@
     "postnummer": "10422",
     "telefon": "08-7372500",
     "epost": "landstinget@sll.se",
-    "namn": "Stockholms län",
+    "namn": "Stockholm",
     "geometry": {
       "coordinates": [
         [
@@ -154,7 +154,7 @@
     "postnummer": "75125",
     "telefon": "018-6110000",
     "epost": "landstinget@lul.se",
-    "namn": "Uppsala län",
+    "namn": "Uppsala",
     "geometry": {
       "coordinates": [
         [
@@ -805,7 +805,7 @@
     "postnummer": "55111",
     "telefon": "036-324000",
     "epost": "regionen@rjl.se",
-    "namn": "Jönköpings län",
+    "namn": "Jönköping",
     "geometry": {
       "coordinates": [
         [
@@ -1459,7 +1459,7 @@
     "postnummer": "39126",
     "telefon": "0480-84000",
     "epost": "landstinget@ltkalmar.se",
-    "namn": "Kalmar län",
+    "namn": "Kalmar",
     "geometry": {
       "coordinates": [
         [
@@ -2932,7 +2932,7 @@
     "postnummer": "70116",
     "telefon": "019-6027000",
     "epost": "regionen@regionorebrolan.se",
-    "namn": "Örebro län",
+    "namn": "Örebro",
     "geometry": {
       "coordinates": [
         [
@@ -4249,7 +4249,7 @@
     "postnummer": "90189",
     "telefon": "090-7857000",
     "epost": "landstinget@vll.se",
-    "namn": "Västerbottens län",
+    "namn": "Västerbotten",
     "geometry": {
       "coordinates": [
         [
@@ -4485,7 +4485,7 @@
     "postnummer": "97189",
     "telefon": "0920-284000",
     "epost": "norrbottens.lans.landsting@nll.se",
-    "namn": "Norrbottens län",
+    "namn": "Norrbotten",
     "geometry": {
       "coordinates": [
         [
