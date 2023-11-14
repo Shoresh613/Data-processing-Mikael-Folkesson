@@ -18,6 +18,7 @@ jinja2 = "*"
 folium = "*"
 statsmodels = "*"
 dash = "*"
+kaleido = "*"
 
 [dev-packages]
 
