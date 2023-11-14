@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Demo</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+    <body>
+        <h1>Demo</h1>
+        <p>This is a demo</p>
+        <h2> Frontend vs backend</h2>
+        <p><b>Frontend:</b> The client-side part of an application that focuses on presenting stuff to the end-user</p>
+        <p><b>Backend:</b> The server-side part of an application that focuses on on the behind-the-scenes, logic, computations , and data storage.</p>
+
+        <div onclick="addListItem()">
+            <h2>3 basic web technologies:</h2>
+            <ul  id="webTechnologiesList">
+                <li><b>HTML</b>: Markup language <span class="purple-wingdings">that describes the laoyut</span> and content of a static web page.</li>
+                <li><b>JavaScript:</b> Client side scripting language used to add dynamic functionality to a webpage.</li>
+                <li><b>CSS:</b> A language used to style a webpage.</li>
+            </ul>
+        </div>
+        The browser interprets the HTML, CSS, and JavaScript code to display the webpage, and constructs a DOM tree structure, through which the elements of the page can be accessed.
+    
+        <p><button onclick="addListItem()">Add Item</button>
+        <script src="addtech.js"></script>
+
+        <h2>Links</h2>
+        <a href="about.html">About this course.</a><br>
+        <a href="https://github.com/everyloop/Databehandling-AI23">Course github.</a>
+        <a href="www.htmlcheatsheet.com">HTML and CSS cheatsheets</a>
+
+        <h2 id="my-id">Test</h2>
+    </body>
+</html>

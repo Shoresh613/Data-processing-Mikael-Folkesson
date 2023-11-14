@@ -17,6 +17,7 @@ python-dotenv = "*"
 jinja2 = "*"
 folium = "*"
 statsmodels = "*"
+dash = "*"
 
 [dev-packages]
 

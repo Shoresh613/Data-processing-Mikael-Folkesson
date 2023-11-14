@@ -1,0 +1,44 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: #555;
+}
+
+/* ID can only be attributed to one HTML element, in this case the above (h2) */
+#my-id {
+    font-family: Wingdings;
+    color: #555;
+}
+
+p {
+    color: #777;
+}
+
+/* Class can be attributed to any HTML element */
+.purple-wingdings {
+    font-family: Wingdings;
+    color: #777777;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
