@@ -19,6 +19,7 @@ folium = "*"
 statsmodels = "*"
 dash = "*"
 kaleido = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 
